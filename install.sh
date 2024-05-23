@@ -13,3 +13,4 @@ cd
 sudo rm -rf svoZOV
 sudo chmod 777 govno.sh
 sudo chmod 777 govno-remove.sh
+echo Установка завершилась
